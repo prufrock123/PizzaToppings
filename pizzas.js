@@ -55813,5 +55813,6 @@ window.app = window.app || {};
     }]
 
 app.pizzas = pizzas
+// console.dir(app.pizzas)
 
 })(window, undefined);
